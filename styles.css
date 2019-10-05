@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 14segment;
+    font-family: a14segment;
     src: url("/14segment.otf") format("opentype");
 }
 
 
 body {
-  font-family: 14segment;
+  font-family: a14segment;
   font-size: 6vw;
 }
 .menu {
