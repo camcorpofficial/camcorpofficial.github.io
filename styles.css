@@ -1,18 +1,1 @@
-@font-face {
-    font-family: a14segment;
-    src: url("/LCD14Italic.otf") format("opentype");
-}
 
-
-body {
-  font-family: a14segment;
-  font-size: 6vw;
-}
-.menu {
-  column-count:2;
-  
-}
-.prices {
-  background-color: black;
-  color: red;
-}
